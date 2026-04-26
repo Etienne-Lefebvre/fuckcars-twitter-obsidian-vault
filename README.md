@@ -1,4 +1,4 @@
-# FuckCarsReddit Twitter Archive — Obsidian Vault
+# FuckCarsReddit Twitter Archive to Obsidian Vault
 
 I ran the [@FuckCarsReddit](https://twitter.com/FuckCarsReddit) Twitter account. I mainly posted urbanist memes and rants about cars, parking, transit, housing, and sprawl. This is the full archive of my original posts, dumped into an [Obsidian](https://obsidian.md) vault so people can actually find old stuff. Twitter's search is borderline useless, and I have no idea how long the platform will keep working.
 
